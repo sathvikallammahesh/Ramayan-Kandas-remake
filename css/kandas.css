@@ -1,0 +1,46 @@
+.header1 h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+hr {
+    width: 20%;
+    height: 6px;
+    background-color: #d7385e;
+}
+#boldernav:hover {
+    color: #ec524b;    
+}
+.borderso {
+    border: #ec524b solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table,th,td {
+    border: #ec524b 6px solid;
+}
+table {
+    text-align: center;
+    margin-left: 5%;
+}
+.RAMA1 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.kandades {
+font-size: 20px;
+}
+.ahref {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+}
+.ahref:hover {
+    color: #ec524b;
+    text-decoration: none;
+}
